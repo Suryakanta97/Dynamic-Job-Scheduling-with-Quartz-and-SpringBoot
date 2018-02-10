@@ -3,18 +3,8 @@ Dynanic Job Scheduling with Quartz and Spring.
 To understand what is happening in this project read the below:
 for a comprehensive overview.
 
-## Branches
-
-Branch                                                              | Notes
---------------------------------------------------------------------|------------------
-[master](https://github.com/surya/quartz-manager/tree/master)  | Implementation without database      
-[v1.x](https://github.com/surya/quartz-manager/tree/v1.x)      | Implementation with database
-[v2.x](https://github.com/surya/quartz-manager/tree/v2.x)      | Implementation with error handling
-[v3.x](https://github.com/surya/quartz-manager/tree/v3.x)      | Implementation with Spring WebFlux
-v4.x                                                                | Implementation with Functional Spring WebFlux functional 
-
 # Spring WebFlux
-Checkout this [branch](https://github.com/surya/quartz-manager/tree/v3.x) for a reactive version of the source
+Checkout this [branch](https://github.com/Suryakanta97/Dynamic-Job-Scheduling-with-Quartz-and-SpringBoot) for a reactive version of the source
 
 ## Quick Start
 
