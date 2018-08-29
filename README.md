@@ -1,3 +1,8 @@
+# Quartz Manager
+Dynanic Job Scheduling with Quartz and Spring.
+To understand what is happening in this project read the below:
+for a comprehensive overview.
+
 # Donation
 
 If you have found my softwares to be of any use to you, do consider helping me pay my internet bills. This would encourage me to create many such softwares :)
@@ -6,10 +11,7 @@ If you have found my softwares to be of any use to you, do consider helping me p
 |:-------------------------------------------:|:-------------------------------------------------------------:|
 | ₹ (INR)  | <a href="https://www.instamojo.com/@suryakanta97/" target="_blank"><img src="https://www.soldermall.com/images/pic-online-payment.jpg" alt="Donate via Instamojo" title="Donate via instamojo" /></a> |
 
-# Quartz Manager
-Dynanic Job Scheduling with Quartz and Spring.
-To understand what is happening in this project read the below:
-for a comprehensive overview.
+
 
 # Spring WebFlux
 Checkout this [branch](https://github.com/Suryakanta97/Dynamic-Job-Scheduling-with-Quartz-and-SpringBoot) for a reactive version of the source
